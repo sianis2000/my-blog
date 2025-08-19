@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "First commit - my blog"
+git branch -M main
+git remote add origin https://github.com/ΤΟ_ΟΝΟΜΑ_ΣΟΥ/my-blog.git
+git push -u origin main
